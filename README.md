@@ -7,7 +7,7 @@ The website provides links to helpful data dashboard for popular crypto protocol
 ## Architecture
 
 The website uses:
-1. A Next.js front end using client and server side rendered components
+1. A Next.js front end app using client and server side rendered components
 2. An Express.js GraphQL api for the backend  
 3. MongoDB Atlas database for persistence
 
